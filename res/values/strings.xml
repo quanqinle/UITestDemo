@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Orange_Demo</string>
+    <string name="action_settings">Settings</string>
+    <string name="button_activity">Button</string>
+    <string name="edittext_activity">EditText</string>
+    <string name="bar_activity">Bar</string>
+    <string name="list_activity">ListView</string>
+    <string name="view_activity">View</string>
+    <string name="picker_activity">Picker</string>
+
+</resources>
